@@ -1,0 +1,14 @@
+@font-face {
+  font-family: 'babydoll'; /* This is an arbitrary name -- whatever works for you */
+  src: url('https://cdn.glitch.global/5d44f92d-e29f-4b14-bf4a-3ebde973f367/Baby%20Doll.otf?v=1734064647244');
+       url('https://cdn.glitch.global/5d44f92d-e29f-4b14-bf4a-3ebde973f367/Baby%20Doll.otf?v=1734064647244') format('otf'),
+}
+
+body {
+
+  margin: 0;
+    padding: 0;
+    font-size: 14px;
+   font-family: 'babydoll', sans-serif;
+}
+ 
